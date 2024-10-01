@@ -14,7 +14,7 @@ public class Ahorcado {
         boolean palabraAdivinada = false;
 
         //Arreglos:
-        char [] letrasAdivinadas = new char [palabrasecreta.length()];  //Esto es un arrive de chars
+        char [] letrasAdivinadas = new char [palabrasecreta.length()];  //Esto es un array de chars
 
         // Estructura de control: tipo iterativa (bucle)
         for (int i = 0; i < letrasAdivinadas.length; i++) {
